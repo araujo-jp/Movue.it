@@ -1,4 +1,4 @@
-import allChallenges from '../../assets/challenges/data';
+import allChallenges from '~/assets/challenges/data';
 
 import { State } from './types';
 
@@ -11,10 +11,6 @@ export const state = (): State => ({
 	},
 	completedChallenges: 0,
 	currentChallengeIndex: null,
-	allChallenges,
 	isLevelUpModalOpen: false,
+	allChallenges,
 });
-
-
-
-
