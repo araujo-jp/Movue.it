@@ -17,7 +17,7 @@
 
 Movue It - é uma aplicação que permite você executar a técnica de Pomodoro para focar nas suas atividades. Ao final de cada ciclo, um desafio lhe é proposto para que você descanse e se exercite.
 
-Projeto desenvolvido durante a **NLW - Levue Week (NLW)** oferecida por [Maiatto Dev](https://www.youtube.com/c/MaiattoDev)
+Projeto desenvolvido durante a **NLW - Next Levue Week** oferecida por [Maiatto Dev](https://github.com/rafaelmaiach)
 
 ## 🧪 Tecnologias
 
