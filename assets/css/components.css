@@ -18,6 +18,6 @@
 	@apply bg-white text-text border-b-2 border-green cursor-not-allowed h-20
 }
 
-.button.succeed {
+.button.success {
 	@apply text-white bg-green hover:bg-green-dark h-3 w-1/2
 }
